@@ -6,8 +6,9 @@ GoodStuff is a lightweight music player app for iOS that I built for my dad. It 
 ## Features
 - Offline local audio playback
 - Simple, minimal UI designed for accessibility
-- Basic playback controls: play, pause, skip, scrub
-- Album art display (uses placeholder images)
+- Basic playback controls: play, pause, skip, shuffle, scrub
+- Song art display
+- Fully compatable with Apple CarPlay
 
 ## Tech Stack
 - Swift
@@ -23,3 +24,7 @@ GoodStuff is a lightweight music player app for iOS that I built for my dad. It 
 1. Clone the repo:
    ```bash
    git clone https://github.com/Ecgal/GoodStuff-MusicPlayer.git
+
+2. Open the .xcodeproj file in Xcode
+3. Build and run on a simulator or physical device (iOS 15+ recommended)
+
