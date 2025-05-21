@@ -16,7 +16,6 @@ GoodStuff is a lightweight music player app for iOS that I built for my dad. It 
 - AVFoundation
 
 ## Screenshots
-*(You can insert screenshots here once ready)*  
 <img src="Assets/ScreenGrab1.PNG" width="300" />
 <img src="Assets/ScreenGrab2.PNG" width="300" />
 <img src="Assets/ScreenGrab3.PNG" width="300" />
